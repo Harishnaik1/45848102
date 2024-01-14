@@ -1,1 +1,6 @@
-# 45848102
+ls
+apt update
+apt upgrade
+sl
+install petan 
+clear
